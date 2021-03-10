@@ -16,12 +16,12 @@ npm run serve
 
 ## 기능
 
-> > todo 추가
-> > todo 저장
-> > todo 완료
-> > todo 수정
-> > todo 삭제
-> > todo 모두 삭제
+>> todo 추가
+>> todo 저장
+>> todo 완료
+>> todo 수정
+>> todo 삭제
+>> todo 모두 삭제
 
 ## vuex
 
